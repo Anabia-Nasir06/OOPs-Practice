@@ -6,6 +6,7 @@ p2 = Point(4, 6)
 line = Line(p1, p2)
 line.display()
 
+
 l=line.length()
 print(f"Length of line is: {l}")
 
